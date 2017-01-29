@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=c:\Tsite\tenv"
+set "VIRTUAL_ENV=C:\Users\Tatiana\Documents\PhotoSite\tenv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
